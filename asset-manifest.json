@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/secretboutique/static/css/main.d1b05096.chunk.css",
-    "main.js": "/secretboutique/static/js/main.ee48713a.chunk.js",
-    "main.js.map": "/secretboutique/static/js/main.ee48713a.chunk.js.map",
+    "main.js": "/secretboutique/static/js/main.2972d006.chunk.js",
+    "main.js.map": "/secretboutique/static/js/main.2972d006.chunk.js.map",
     "runtime-main.js": "/secretboutique/static/js/runtime-main.47a0d5eb.js",
     "runtime-main.js.map": "/secretboutique/static/js/runtime-main.47a0d5eb.js.map",
     "static/js/2.bbc13edf.chunk.js": "/secretboutique/static/js/2.bbc13edf.chunk.js",
     "static/js/2.bbc13edf.chunk.js.map": "/secretboutique/static/js/2.bbc13edf.chunk.js.map",
     "index.html": "/secretboutique/index.html",
-    "precache-manifest.1518250d4e892ff7778297672fbe0317.js": "/secretboutique/precache-manifest.1518250d4e892ff7778297672fbe0317.js",
+    "precache-manifest.0da43d5aa2812c5f7a263cec49138e4a.js": "/secretboutique/precache-manifest.0da43d5aa2812c5f7a263cec49138e4a.js",
     "service-worker.js": "/secretboutique/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/secretboutique/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.bbc13edf.chunk.js.LICENSE": "/secretboutique/static/js/2.bbc13edf.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.47a0d5eb.js",
     "static/js/2.bbc13edf.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ee48713a.chunk.js"
+    "static/js/main.2972d006.chunk.js"
   ]
 }
