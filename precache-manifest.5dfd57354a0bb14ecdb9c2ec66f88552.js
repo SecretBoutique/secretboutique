@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36924e2e7f4e986f2b3187c7e6c6cc36",
+    "revision": "cc3328e2e662707dd8b1fd197e01fc62",
     "url": "/secretboutique/index.html"
   },
   {
-    "revision": "341263b48910cb0c4f75",
+    "revision": "71dd8efbed0ef38f54ba",
     "url": "/secretboutique/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/secretboutique/static/js/2.bbc13edf.chunk.js.LICENSE"
   },
   {
-    "revision": "341263b48910cb0c4f75",
-    "url": "/secretboutique/static/js/main.2972d006.chunk.js"
+    "revision": "71dd8efbed0ef38f54ba",
+    "url": "/secretboutique/static/js/main.bf703351.chunk.js"
   },
   {
     "revision": "b2c99e32f6ee06f45b05",
